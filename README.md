@@ -10,3 +10,9 @@ Instalar o runtime na máquina física - DONE!
 
 ## Passo 3:
 Clonar o repositorio remoto na pasta C:awsbraga
+
+## Passo 4:
+Criar a Web App Balzor: "calendario" - DONE!
+
+## Passo 5:
+Criar Dockerfile para a app "calendario"
